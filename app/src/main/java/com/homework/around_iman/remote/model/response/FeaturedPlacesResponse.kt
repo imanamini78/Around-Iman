@@ -12,11 +12,11 @@ data class Meta(
 )
 
 data class Response(
-    val items: List<Item?>?,
+    val items: List<PlaceDto>?,
     val total: Int?
 )
 
-data class Item(
+data class PlaceDto(
     val address: String?,
     val attributes: Attributes?,
     val categories: List<Category?>?,
