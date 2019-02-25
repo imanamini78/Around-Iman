@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
-        android:layout_width=
+<resources>
+    <color name="colorPrimary">#087FCA</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#2E7D32</color>
+</resources>
